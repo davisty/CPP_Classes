@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1525144163 source:c:\users\tdavi\documents\_github\cpp_classes\main.cpp
+	<iostream>
+	"Movies.h"
+
+1525144305 c:\users\tdavi\documents\_github\cpp_classes\movies.h
+	<vector>
+	<string>
+	"Movie.h"
+
+1525144278 c:\users\tdavi\documents\_github\cpp_classes\movie.h
+	<string>
+
+1525144197 source:c:\users\tdavi\documents\_github\cpp_classes\movie.cpp
+	<iostream>
+	"Movie.h"
+
